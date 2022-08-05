@@ -9,6 +9,10 @@ Oh, and I play a few instruments 🥁🎸🎹
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
+<div>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png?20220508043311'/>
+</div>
+
 ## Certifications
 🔹 [Accenture - Java Apps Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
