@@ -1,8 +1,10 @@
-# Hi 👋
+# Hi 👋 
 </br>
 I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. 
 </br></br>
-Always obsessed with The Little Prince, Digimon World for PSX & Dark Souls ✌.
+Always obsessed with <b>The Little Prince</b>, <b>Digimon World</b> for PSX & <b>Dark Souls</b> ✌.
+</br></br>
+Oh, and I play a few instruments 🥁🎸🎹
 </br></br>
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
