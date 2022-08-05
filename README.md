@@ -9,7 +9,6 @@ Oh, and I play a few instruments 🥁🎸🎹
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
-</br>
 <div>
   <h4>Languages I reckon I know:</h4>
   <img style='aspect-ratio: 1/1; width: 100px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433'/>
@@ -19,7 +18,6 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
   <h4>Languages I'm trying to understand 🤣:</h4>
   <img style='aspect-ratio: 1/1; width: 100px;' src='https://static1.personality-database.com/profile_images/1bef9cabd17a482083bd21db3708822c.png'/>
 </div>
-</br>
 
 ## Certifications
 🔹 [Accenture - Java Apps Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
