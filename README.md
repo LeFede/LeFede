@@ -10,12 +10,12 @@ Oh, and I play a few instruments 🥁🎸🎹
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
 <div>
-  <h3>Languages I reckon I know</h3>
-  <img src=''/>
+  <h3>Languages I reckon I know:</h3>
+  <img style='aspect-ratio: 1/1; width: 100px;' src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433'/>
 </div>
 <div>
-  <h3>Languages I'm trying to understand 🤣</h3>
-  <img src='https://static1.personality-database.com/profile_images/1bef9cabd17a482083bd21db3708822c.png'/>
+  <h3>Languages I'm trying to understand 🤣:</h3>
+  <img style='aspect-ratio: 1/1; width: 100px;' src='https://static1.personality-database.com/profile_images/1bef9cabd17a482083bd21db3708822c.png'/>
 </div>
 
 ## Certifications
