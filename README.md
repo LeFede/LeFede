@@ -1,5 +1,8 @@
+#👋 Hi, 
+I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. 
+Always obsessed with The Little Prince, Digimon World for PSX & Dark Souls ✌.
 
-- 👋 Hi, I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃
+Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
 ## Certifications
 🔹 [Accenture - Java Apps Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
