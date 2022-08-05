@@ -10,7 +10,12 @@ Oh, and I play a few instruments 🥁🎸🎹
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
 <div>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png?20220508043311'/>
+  <h3>Languages I reckon I know</h3>
+  <img src=''/>
+</div>
+<div>
+  <h3>Languages I'm trying to understand 🤣</h3>
+  <img src='https://static1.personality-database.com/profile_images/1bef9cabd17a482083bd21db3708822c.png'/>
 </div>
 
 ## Certifications
