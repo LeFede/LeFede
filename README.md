@@ -4,7 +4,7 @@
 
 # Certifications:
 <ul>
-<li>[Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png)<li>
+<li> [Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png) <li>
 </ul>
 
 <!---
