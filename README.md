@@ -18,6 +18,9 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [sololearn - Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png)
 </br>
 🔹 [sololearn - React + Redux](https://www.sololearn.com/Certificate/1097-26575590/jpg)
+</br>
+🔹 [freeCodeCamp - Certifications](https://www.freecodecamp.org/LeFede)
+
 
 ## Socials
 🎮 [Twitch](https://www.twitch.tv/lefede)
