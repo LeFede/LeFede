@@ -19,7 +19,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 🔹 [sololearn - React + Redux](https://www.sololearn.com/Certificate/1097-26575590/jpg)
 </br>
-🔹 [freeCodeCamp - Certifications](https://www.freecodecamp.org/LeFede)
+🔹 [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/lefede/responsive-web-design)
 
 
 ## Socials
