@@ -22,6 +22,9 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [freeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/certification/lefede/responsive-web-design)
 </br>
 🔹 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/LeFede/javascript-algorithms-and-data-structures)
+</br>
+🔹 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries
+)
 
 
 
