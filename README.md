@@ -27,7 +27,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 
 
 ## Challenge pages' profiles
-🔸 <a href="https://cssbattle.dev/player/lefede" target="_blank">CSSBattle</a>
+🔸 [CSSBattle]([https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries](https://cssbattle.dev/player/lefede))
 
 ## Socials
 🎮 [Twitch](https://www.twitch.tv/lefede)
