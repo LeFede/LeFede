@@ -37,7 +37,8 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 🔸 [Exercism](https://exercism.org/profiles/LeFede)
 </br>
-
+🔸 [CoderByte](https://coderbyte.com/profile/LeFede)
+</br>
 
 ## Socials
 🎮 [Twitch](https://www.twitch.tv/lefede)
