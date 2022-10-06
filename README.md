@@ -26,7 +26,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries)
 
 
-## Challenge pages
+## Challenge pages' profiles
 🔹 [CSSBattle](https://cssbattle.dev/player/lefede)
 
 ## Socials
