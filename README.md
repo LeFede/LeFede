@@ -28,6 +28,16 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 
 ## Challenge pages' profiles
 🔸 [CSSBattle](https://cssbattle.dev/player/lefede)
+</br>
+🔸 [WarriorJS](https://warriorjs.com/lefede)
+</br>
+🔸 [HackerRank](https://www.hackerrank.com/LeFede)
+</br>
+🔸 [CodeWars](https://www.codewars.com/users/LeFede)
+</br>
+🔸 [Exercism](https://exercism.org/profiles/LeFede)
+</br>
+
 
 ## Socials
 🎮 [Twitch](https://www.twitch.tv/lefede)
