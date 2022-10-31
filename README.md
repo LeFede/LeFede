@@ -24,6 +24,8 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/LeFede/javascript-algorithms-and-data-structures)
 </br>
 🔹 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries)
+</br>
+🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
 
 
 ## Challenge pages' profiles
