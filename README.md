@@ -13,9 +13,21 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 ## Certifications
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
-🔹 [Platzi - Introduccion a la terminal y linea de comandos](https://platzi.com/p/lefede/curso/2292-terminal/diploma/detalle/)
-</br>
 🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
+</br>
+🔹 [Platzi - Introducción a la terminal y línea de comandos](https://platzi.com/p/lefede/curso/2292-terminal/diploma/detalle/)
+</br>
+🔹 [Platzi - Curso de Frontend Developer](https://platzi.com/p/lefede/curso/2467-frontend-developer/diploma/detalle/)
+</br>
+🔹 [Platzi - Configuración de Entorno de Desarrollo en Linux](https://platzi.com/p/lefede/curso/2383-prework-linux/diploma/detalle/)
+</br>
+🔹 [Platzi - Configuración de Entorno de Desarrollo en Windows](https://platzi.com/p/lefede/curso/2042-prework-windows/diploma/detalle/)
+</br>
+🔹 [Platzi - Curso Práctico de Frontend Developer](https://platzi.com/p/lefede/curso/2477-frontend-developer-practico/diploma/detalle/)
+</br>
+🔹 [Platzi - Curso Práctico de JavaScript](https://platzi.com/p/lefede/curso/3271-javascript-practico/diploma/detalle/)
+</br>
+🔹 [Platzi - Curso básico de Javascript](https://platzi.com/p/lefede/curso/1814-basico-javascript/diploma/detalle/)
 </br>
 🔹 [sololearn - Game Development with JS](https://www.sololearn.com/Certificate/1175-26575590/jpg)
 </br>
