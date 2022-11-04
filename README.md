@@ -13,6 +13,10 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 ## Certifications
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
+🔹 [Platzi - Introduccion a la terminal y linea de comandos](https://platzi.com/p/lefede/curso/2292-terminal/diploma/detalle/)
+</br>
+🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
+</br>
 🔹 [sololearn - Game Development with JS](https://www.sololearn.com/Certificate/1175-26575590/jpg)
 </br>
 🔹 [sololearn - Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png)
@@ -24,8 +28,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/LeFede/javascript-algorithms-and-data-structures)
 </br>
 🔹 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries)
-</br>
-🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
+
 
 
 ## Challenge pages' profiles
