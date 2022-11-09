@@ -46,8 +46,9 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🔹 [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/LeFede/javascript-algorithms-and-data-structures)
 </br>
 🔹 [freeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/certification/LeFede/front-end-development-libraries)
-
-
+</br>
+🔹 [Udemy - Iniciación a la programación con JavaScript](https://www.udemy.com/certificate/UC-4474e27f-c205-4d78-9017-9c07b25066d5/)
+</br>
 
 ## Challenge pages' profiles
 🔸 [CSSBattle](https://cssbattle.dev/player/lefede)
