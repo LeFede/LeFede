@@ -29,6 +29,8 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 🔹 [Platzi - Curso básico de Javascript](https://platzi.com/p/lefede/curso/1814-basico-javascript/diploma/detalle/)
 </br>
+🔹 [Platzi - Curso Práctico de HTML y CSS](https://platzi.com/p/lefede/curso/1758-html-practico/diploma/detalle/)
+</br>
 🔹 [sololearn - Game Development with JS](https://www.sololearn.com/Certificate/1175-26575590/jpg)
 </br>
 🔹 [sololearn - Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png)
