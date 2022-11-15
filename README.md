@@ -37,6 +37,8 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 🔹 [Platzi - Curso de Asincronismo con JavaScript](https://platzi.com/p/lefede/curso/3175-asincronismo-js/diploma/detalle/)
 </br>
+🔹 [Platzi - Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript](https://platzi.com/p/lefede/curso/3578-npm/diploma/detalle/)
+</br>
 🔹 [sololearn - Game Development with JS](https://www.sololearn.com/Certificate/1175-26575590/jpg)
 </br>
 🔹 [sololearn - Javascript](https://www.sololearn.com/certificates/course/en/26575590/1024/landscape/png)
