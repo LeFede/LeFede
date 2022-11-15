@@ -15,29 +15,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
 </br>
-🔹 [Platzi - Introducción a la terminal y línea de comandos](https://platzi.com/p/lefede/curso/2292-terminal/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso de Frontend Developer](https://platzi.com/p/lefede/curso/2467-frontend-developer/diploma/detalle/)
-</br>
-🔹 [Platzi - Configuración de Entorno de Desarrollo en Linux](https://platzi.com/p/lefede/curso/2383-prework-linux/diploma/detalle/)
-</br>
-🔹 [Platzi - Configuración de Entorno de Desarrollo en Windows](https://platzi.com/p/lefede/curso/2042-prework-windows/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso Práctico de Frontend Developer](https://platzi.com/p/lefede/curso/2477-frontend-developer-practico/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso Práctico de JavaScript](https://platzi.com/p/lefede/curso/3271-javascript-practico/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso básico de Javascript](https://platzi.com/p/lefede/curso/1814-basico-javascript/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso Práctico de HTML y CSS](https://platzi.com/p/lefede/curso/1758-html-practico/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso Definitivo de HTML y CSS](https://platzi.com/p/lefede/curso/2008-html-css/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso Práctico de React.js](https://platzi.com/p/lefede/curso/2484-react-practico/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso de Asincronismo con JavaScript](https://platzi.com/p/lefede/curso/3175-asincronismo-js/diploma/detalle/)
-</br>
-🔹 [Platzi - Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript](https://platzi.com/p/lefede/curso/3578-npm/diploma/detalle/)
+🔹 [Platzi - Full Stack Developer con JavaScript](https://platzi.com/p/lefede/learning-path/100-javascript-full-stack/diploma/detalle/)
 </br>
 🔹 [sololearn - Game Development with JS](https://www.sololearn.com/Certificate/1175-26575590/jpg)
 </br>
