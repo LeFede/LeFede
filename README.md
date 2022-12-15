@@ -9,6 +9,10 @@ Oh, and I play a few instruments 🥁🎸🎹
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
+## Published
+✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize)
+</br>
+
 
 ## Certifications
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
