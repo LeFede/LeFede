@@ -10,14 +10,14 @@ Oh, and I play a few instruments 🥁🎸🎹
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
 ## Published
-✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize){:target="_blank" rel="noopener"}
+✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize)
 </br>
 
 
 ## Certifications
-🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file){:target="_blank" rel="noopener"}
+🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
-🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN){:target="_blank" rel="noopener"}
+🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
 </br>
 🔹 [Platzi - Full Stack Developer con JavaScript](https://platzi.com/p/lefede/learning-path/100-javascript-full-stack/diploma/detalle/)
 </br>
