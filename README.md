@@ -1,8 +1,8 @@
 # Hi 👋 
 </br>
-<div width="300px">
-<img src="./img.png"/>
-<h3>I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. </h3>
+<div width="300px" align="center">
+<img src="./img.jpg"/ align="center">
+<h3 align="center">I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. </h3>
 </div>
 </br></br>
 Always obsessed with <b>The Little Prince</b>, <b>Digimon World</b> for PSX & <b>Dark Souls</b> ✌.
