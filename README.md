@@ -1,7 +1,7 @@
 # Hi 👋 
 </br>
 <div width="300px" align="center">
-<img width="200px" src="./img.jpg"/ align="center" style="border-radius: 50%;">
+<img width="200px" src="./img.png"/ align="center" style="border-radius: 50%;">
 <h3 align="center">I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. </h3>
 </div>
 </br></br>
