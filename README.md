@@ -2,10 +2,8 @@
 </br>
 <div width="300px" align="center">
 <img width="200px" src="./img.png"/ align="center" style="border-radius: 50%;">
-<h3 align="center">I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. </h3>
+<h3 align="center">I’m <b>Federico Andres</b>, or <b>LeFede</b> on my virtual life 😃. <br/>🇦🇷🇮🇹</h3>
 </div>
-</br>
-🇦🇷🇮🇹
 </br></br>
 Always obsessed with <b>The Little Prince</b>, <b>Digimon World</b> for PSX & <b>Dark Souls</b> ✌.
 </br></br>
