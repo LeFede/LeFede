@@ -12,6 +12,9 @@ Oh, and I play a few instruments 🥁🎸🎹
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
+## Proyects
+▫[Svelte TODO App](https://github.com/LeFede/svelte-todo)
+
 ## Published
 ✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize)
 </br>
