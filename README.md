@@ -13,6 +13,7 @@ Oh, I also play a few instruments 🥁🎸🎹
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
 ## Proyects
+▫[React TODO App](https://github.com/LeFede/react-todo)
 ▫[Svelte TODO App](https://github.com/LeFede/svelte-todo)
 
 ## Published
