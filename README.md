@@ -22,14 +22,16 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 
 
-## Wordpress Experience (third party PowerOn employee)
-🔸[Newberg Irrigation Systems (from scratch)](https://irrigationnet.com/)
+## Wordpress Experience (third party employee / freelance)
+🔸[Newberg Irrigation Systems](https://irrigationnet.com/) (from scratch)
 </br>
-🔸[The Mill Restaurants (from scratch)](https://www.themillrestaurants.com/)
+🔸[The Mill Restaurants](https://www.themillrestaurants.com/) (from scratch)
 </br>
-🔸[New Mexico Bowl (from scratch)](https://newmexicobowl.com/)
+🔸[New Mexico Bowl](https://newmexicobowl.com/) (from scratch)
 </br>
-🔸[Hawaii Bowl (maintenance)](https://www.thehawaiibowl.com/)
+🔸[Hawaii Bowl](https://www.thehawaiibowl.com/) (maintenance)
+</br>
+🔸[Kevin Johansen](https://kevinjohansen.com/) (feature incorporation)
 </br>
 🔸Many others...
 </br>
