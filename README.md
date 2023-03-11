@@ -22,6 +22,13 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 </br>
 
 
+## Wordpress Experience (third party PowerOn employee)
+🔸[Newberg Irrigation Systems (from scratch)](https://irrigationnet.com/)
+🔸[The Mill Restaurants (from scratch)](https://www.themillrestaurants.com/)
+🔸[New Mexico Bowl (from scratch)](https://newmexicobowl.com/)
+🔸[Hawaii Bowl (maintenance)](https://www.thehawaiibowl.com/)
+🔸Many others...
+
 ## Certifications
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
