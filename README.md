@@ -80,7 +80,7 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 🎮 [Twitch](https://www.twitch.tv/lefede)
 📸 [Instagram](https://www.instagram.com/lefedeok/)
 🐦 [Twitter](https://twitter.com/lefedeok)
-▶ [Youtube](https://youtube.com/lefede)
+<!-- ▶ [Youtube](https://youtube.com/lefede) -->
 
 <!---
 LeFede/LeFede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
