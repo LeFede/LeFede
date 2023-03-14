@@ -12,8 +12,8 @@ Oh, I also play a few instruments 🥁🎸🎹
 
 Started as a developer in Argentina working with Wordpress for USA clients, became a part-time streamer somewhere in the middle and now focusing on learning and becoming better at the technologies I like the most.
 
-## [Portfolio Online](https://portfolio-main-tawny.vercel.app/)
-(Portfolio text and translations are brought from a MongoDB database, and a custom backend also created for this ocassion)
+### [Portfolio Online](https://portfolio-main-tawny.vercel.app/)
+_(Portfolio text and translations are brought from a MongoDB database, and a custom backend also created for this ocassion)_
 
 ## Proyects
 ▫[JS Calculator](https://github.com/LeFede/js-calculator)<br/>
