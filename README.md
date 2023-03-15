@@ -14,7 +14,11 @@ Started as a developer in Argentina working with Wordpress for USA clients, beca
 
 ### [Portfolio Online](https://portfolio-main-tawny.vercel.app/)
 _(Portfolio text and translations are brought from a MongoDB database, and a custom backend also created for this ocassion)_
-_[Repo](https://github.com/leFede/portfolio-main)_
+</br>
+_[Repo Front](https://github.com/leFede/portfolio-main)_
+</br>
+_[Repo Back](https://github.com/LeFede/portfolio-main-back)_
+</br>
 
 ## Proyects
 ▫[JS Calculator](https://github.com/LeFede/js-calculator)<br/>
