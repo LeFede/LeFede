@@ -46,7 +46,11 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 </br>
 
 ## Certifications
-🔹 [LinkedIn - Fundamentos esenciales de la programación](https://www.linkedin.com/learning/certificates/fed714c954bbff0c588c6f24e649b2a05a2d4c7161b9c3c87173c11bdc98ce7a)
+🔹 [Microsoft ~ LinkedIn Learning - Introducción a las habilidades profesionales en el desarrollo de software](https://www.linkedin.com/learning/certificates/2363db2e4b01b6700e1e0ad0baadd9587edef6dab624f7cc3a79bbbe0a2a6c44?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByiqRKssAQhO33iNzoTWSUQ%3D%3D)
+</br>
+🔹 [Microsoft ~ LinkedIn Learning - Fundamentos profesionales del desarrollo de software](https://www.linkedin.com/learning/certificates/362303cc43de7262390a93241a5771c36b7b5c4441fcaca5d0563c69ee3d6263?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3ByiqRKssAQhO33iNzoTWSUQ%3D%3D)
+</br>
+🔹 [Microsoft ~ LinkedIn Learning - Fundamentos esenciales de la programación](https://www.linkedin.com/learning/certificates/fed714c954bbff0c588c6f24e649b2a05a2d4c7161b9c3c87173c11bdc98ce7a)
 </br>
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
