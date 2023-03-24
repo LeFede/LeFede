@@ -46,6 +46,7 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 </br>
 
 ## Certifications
+🔹 [LinkedIn - Fundamentos esenciales de la programación](https://www.linkedin.com/learning/certificates/fed714c954bbff0c588c6f24e649b2a05a2d4c7161b9c3c87173c11bdc98ce7a)
 🔹 [Accenture - Java Applications Development](https://www.mediafire.com/view/9z55tmhe8c7vb93/Java.jpg/file)
 </br>
 🔹 [EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/sGESXN)
