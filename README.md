@@ -72,7 +72,7 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 </br>
 🔹 [Udemy - Iniciación a la programación con JavaScript](https://www.udemy.com/certificate/UC-4474e27f-c205-4d78-9017-9c07b25066d5/)
 </br>
-🔹[Ente Bilaterale Imprese Lavoratori - Formazione dei lavoratori (generale)](https://drive.google.com/file/d/1km2H5UrApzsVhrWBIRn-b-vCMSdR7axI/view)
+🔹 [Ente Bilaterale Imprese Lavoratori - Formazione dei lavoratori (generale)](https://drive.google.com/file/d/1km2H5UrApzsVhrWBIRn-b-vCMSdR7axI/view)
 </br>
 
 ## Challenge pages' profiles
