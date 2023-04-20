@@ -107,7 +107,8 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+</br>
+https://github-readme-stats.vercel.app/api?username=LeFede&theme=dark&hide_border=false&include_all_commits=false
 <!---
 LeFede/LeFede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
