@@ -30,6 +30,8 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 ✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize)
 </br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 ## Wordpress Experience (third party employee / freelance)
 🔸[Newberg Irrigation Systems](https://irrigationnet.com/) (from scratch)
