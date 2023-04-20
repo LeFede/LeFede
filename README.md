@@ -93,7 +93,10 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 🔗 [LinkedIn](https://www.linkedin.com/in/lefede)
 <!-- 🎮 [Twitch](https://www.twitch.tv/lefede) -->
 </br>
-https://img.shields.io/twitch/status/LeFede?style=social
+
+
+
+[![Twitch](https://img.shields.io/twitch/status/LeFede?style=social)](https://www.twitch.tv/lefede)
 </br>
 📸 [Instagram](https://www.instagram.com/lefedeok/)
 🐦 [Twitter](https://twitter.com/lefedeok)
