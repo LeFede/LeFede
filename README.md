@@ -90,13 +90,10 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 </br>
 
 ## Socials
-🔗 [LinkedIn](https://www.linkedin.com/in/lefede)
+<!-- 🔗 [LinkedIn](https://www.linkedin.com/in/lefede) -->
 <!-- 🎮 [Twitch](https://www.twitch.tv/lefede) -->
 </br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lefede)
-
-[![Twitch](https://img.shields.io/twitch/status/LeFede?style=social)](https://www.twitch.tv/lefede)
+[![Instagram](https://img.shields.io/badge/Instagram-9256c4.svg?logo=instagram)](https://www.instagram.com/lefedeok/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lefede) [![Twitch](https://img.shields.io/twitch/status/LeFede?style=social)](https://www.twitch.tv/lefede)
 </br>
 📸 [Instagram](https://www.instagram.com/lefedeok/)
 🐦 [Twitter](https://twitter.com/lefedeok)
