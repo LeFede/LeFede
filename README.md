@@ -30,8 +30,6 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 ✅ [Columnizer ~ VSCode Extension](https://marketplace.visualstudio.com/items?itemName=LeFede.columnize)
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 
 ## Wordpress Experience (third party employee / freelance)
 🔸[Newberg Irrigation Systems](https://irrigationnet.com/) (from scratch)
@@ -97,6 +95,9 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 📸 [Instagram](https://www.instagram.com/lefedeok/)
 🐦 [Twitter](https://twitter.com/lefedeok)
 <!-- ▶ [Youtube](https://youtube.com/lefede) -->
+
+## Github Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 LeFede/LeFede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
