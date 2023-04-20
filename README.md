@@ -94,7 +94,7 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 <!-- 🎮 [Twitch](https://www.twitch.tv/lefede) -->
 </br>
 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lefede)
 
 [![Twitch](https://img.shields.io/twitch/status/LeFede?style=social)](https://www.twitch.tv/lefede)
 </br>
