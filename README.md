@@ -108,7 +108,7 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 ## Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com?user=LeFede&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 </br>
-[![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=LeFede&theme=dark&hide_border=false&include_all_commits=false)](https://github-readme-stats.vercel.app/api?username=LeFede&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+[![GitHub Contribution](https://github-readme-stats.vercel.app/api?username=LeFede&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=LeFede&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 </br>
 [![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeFede&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact&count_private=false)](https://github-readme-stats.vercel.app/api/top-langs/?username=LeFede&theme=tokyonight&hide_border=false&include_all_commits=false&layout=compact&count_private=false)
 </br>
