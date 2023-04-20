@@ -77,7 +77,7 @@ _[Repo Back](https://github.com/LeFede/portfolio-main-back)_
 
 ## Challenge pages' profiles
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-%20-blue?style=plastic&logo=code_signal)](https://app.codesignal.com/profile/lefede)
-[![CSSBattle](https://img.shields.io/badge/CSSBattle-%20-green?style=plastic&logo=code_signal)](https://cssbattle.dev/player/lefede)
+[![CSSBattle](https://img.shields.io/badge/CSSBattle-%20-yellow?style=plastic&logo=code_signal)](https://cssbattle.dev/player/lefede)
 [![WarriorJS](https://img.shields.io/badge/WarriorJS-%20-red?style=plastic&logo=code_signal)](https://warriorjs.com/lefede)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%20-green?style=plastic&logo=code_signal)](https://www.hackerrank.com/LeFede)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%20-critical?style=plastic&logo=code_signal)](https://www.codewars.com/users/LeFede)
