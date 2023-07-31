@@ -17,7 +17,7 @@ Full Stack Developer with 1 year of specialized experience in Frontend ~ Wordpre
 I lived in Italy for six months, during which I had the opportunity to meet and converse with people from all over the world in various languages.
 
 ### [Portfolio Online](https://portfolio-main-tawny.vercel.app/)
-_(Portfolio text and translations are brought from a MongoDB database, and a custom backend also created for this ocassion)_
+<!--_(Portfolio text and translations are brought from a MongoDB database, and a custom backend also created for this ocassion)_-->
 
 _[Repo Front](https://github.com/leFede/portfolio-main)_
 
