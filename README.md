@@ -31,7 +31,7 @@ _[Repo Front](https://github.com/leFede/portfolio-main)_
 
 
 
-## Wordpress Experience (third party employee / freelance)
+## Wordpress Experience
 🔶 [Newberg Irrigation Systems](https://irrigationnet.com/) (from scratch)<br>
 🔶 [The Mill Restaurants](https://www.themillrestaurants.com/) (from scratch)<br>
 🔶 [New Mexico Bowl](https://newmexicobowl.com/) (from scratch)<br>
