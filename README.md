@@ -11,7 +11,7 @@ Always obsessed with <b>The Little Prince</b>, <b>Digimon World</b> for PSX & <b
 
 Oh, I also play a few instruments 🥁🎸🎹
 
-Fullstack Developer with 1 year of specialized experience in Frontend ~ Wordpress. Proficient in Javascript, React, Mongodb, PostgreSQL, Redux, Cypress, Vitest, and more. My experience in developing comprehensive websites for clients based in the United States has enabled me to develop skills such as English communication, particularly discussing the features that the website should implement.
+Fullstack Developer with 3 years of specialized experience in Frontend ~ Wordpress. Proficient in Javascript, React, Mongodb, PostgreSQL, Redux, Cypress, Vitest, and more. My experience in developing comprehensive websites for clients based in the United States has enabled me to develop skills such as English communication, particularly discussing the features that the website should implement.
 I lived in Italy for six months, during which I had the opportunity to meet and converse with people from all over the world in various languages.
 
 ### [Portfolio Online](https://portfolio-main-tawny.vercel.app/)
